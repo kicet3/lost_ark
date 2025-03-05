@@ -61,12 +61,12 @@ skill_ = {"버서커": {"다이빙 슬래쉬": 1, "다크 러쉬": 2, "더블 �
 "도화가": {"묵법 : 난치기": 1, "묵법 : 달그리기": 2, "묵법 : 두루미나래": 3, "묵법 : 먹오름": 4, "묵법 : 미리내": 5, "묵법 : 범가르기": 6, "묵법 : 옹달샘": 7, "묵법 : 해그리기": 8, "묵법 : 해우물": 9, "묵법 : 호접몽": 10, "묵법 : 환영의 문": 11, "필법 : 먹물세례": 12, "필법 : 올려치기": 13, "필법 : 콩콩이": 14, "필법 : 한획긋기": 15, "필법 : 흩뿌리기": 16},
 "기상술사": {"날아가기": 1, "내려찍기": 2, "돌개바람": 3, "뙤약볕": 4, "마주바람": 5, "몰아치기": 6, "바람송곳": 7, "봄바람": 8, "센바람": 9, "소나기": 10, "소용돌이": 11, "싹쓸바람": 12, "짙은 안개": 13, "칼바람": 14, "펼치기": 15, "회오리 걸음": 16, "여우비 스킬": 17}}
 
-token_auction1 = 'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsIng1dCI6IktYMk40TkRDSTJ5NTA5NWpjTWk5TllqY2lyZyIsImtpZCI6IktYMk40TkRDSTJ5NTA5NWpjTWk5TllqY2lyZyJ9.eyJpc3MiOiJodHRwczovL2x1ZHkuZ2FtZS5vbnN0b3ZlLmNvbSIsImF1ZCI6Imh0dHBzOi8vbHVkeS5nYW1lLm9uc3RvdmUuY29tL3Jlc291cmNlcyIsImNsaWVudF9pZCI6IjEwMDAwMDAwMDAwMjU4MzMifQ.LQFiVfyV11l3-4u20RkroD0hOVgrcGuWGf6n6_1Q86oiATg_9itb0RblPOdLyk3hXJxc3Q9kf0wfmIXU891eVYmfwHaoCYa1W0PQbKx2MQiKel_ciqo8KscsMdxAlGexdjNbGVDLxqoCBn6MiqqrzEnQaSPiGmazQc3OixZTR4MEYwNkX-HeiBReag_WMtCeNUoW9QghgMu4VH29PeKpFlEZYdDiZ2-Lzy-984VJEYO927ev6rZnux020v1Jy8USLgzUb_rCOHuJKuv-E32vPzy-UfdD1b4RpvT0b0DDoOEzKA-G5eb2XS9mVRnTFloznKVjVzbBEv9eloeq1Hzzuw'
-token_auction2 = 'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsIng1dCI6IktYMk40TkRDSTJ5NTA5NWpjTWk5TllqY2lyZyIsImtpZCI6IktYMk40TkRDSTJ5NTA5NWpjTWk5TllqY2lyZyJ9.eyJpc3MiOiJodHRwczovL2x1ZHkuZ2FtZS5vbnN0b3ZlLmNvbSIsImF1ZCI6Imh0dHBzOi8vbHVkeS5nYW1lLm9uc3RvdmUuY29tL3Jlc291cmNlcyIsImNsaWVudF9pZCI6IjEwMDAwMDAwMDAwNTg4NzMifQ.g68XbHoVRgFKeIZVTcEjBt2Axfg2fXaqH20CnQfss1MGJ8JH9uAHJet1lzg9GjvHXok2686sep3zaQpfVOs9ifXt9_lZPFKeKrSb-TegI1yyXw-ho6D372aBfnQ7jLAqrtmSxFpw4aoOFqAAVLfMaibZiWV5hygdVJjMfqNFVkGM9yhd4Q9WY7ZM5kwyEKA4Y2IBqcx_ez07y7tmY8jfP5WhgROnSdCOSFzVbWShZx3mPhdOc51tMcR2dxxMlzNk3FgS-EVv4aVSEMIUvTBsMsh0NPGou9IVLzQrU9rCTD6woKQ94zcv4K7yDuWu9jcyGbngeCGdg9EQvUunxuckRw'
-token_auction3 = 'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsIng1dCI6IktYMk40TkRDSTJ5NTA5NWpjTWk5TllqY2lyZyIsImtpZCI6IktYMk40TkRDSTJ5NTA5NWpjTWk5TllqY2lyZyJ9.eyJpc3MiOiJodHRwczovL2x1ZHkuZ2FtZS5vbnN0b3ZlLmNvbSIsImF1ZCI6Imh0dHBzOi8vbHVkeS5nYW1lLm9uc3RvdmUuY29tL3Jlc291cmNlcyIsImNsaWVudF9pZCI6IjEwMDAwMDAwMDAwNTg4ODYifQ.cWq4PgHow5nw7xlpDrYefGFuan-C7FIK7LIu1apO7nqtZfOcY1-oZ3jlz5FUsdKraag9l-Wng4qqaUple-tJaHt4N1GTte61zFmpfK1qv7XjEi2SN9P3FIvBGeajciLBabOilWyC2322gxpZ0fItmTDb9tA9c12P0r5WiPq5KybZGZ5JZr6R5UqncuisX3tivB9PT1lU5IupL0_GVILEWApKB5mrdpxdsXEsk9YCEgOh7I-VFBEyHVxD-hXzF5hilbrw7PKiPD_c-8lAQZ7W9n3FmKU2y2AVQl-Hy4GyvixEhscj_8KmUdd8Xk3gEwSdvvahFtdsNTw2Eg5bYNpbYw'
-token_auction4 = 'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsIng1dCI6IktYMk40TkRDSTJ5NTA5NWpjTWk5TllqY2lyZyIsImtpZCI6IktYMk40TkRDSTJ5NTA5NWpjTWk5TllqY2lyZyJ9.eyJpc3MiOiJodHRwczovL2x1ZHkuZ2FtZS5vbnN0b3ZlLmNvbSIsImF1ZCI6Imh0dHBzOi8vbHVkeS5nYW1lLm9uc3RvdmUuY29tL3Jlc291cmNlcyIsImNsaWVudF9pZCI6IjEwMDAwMDAwMDAwNTg4ODUifQ.Oi5EXTCiFpmp-GrTB30z_tb6OLJt1JhZ0mSewnsmNo5I3H9p6318aB91_sbxgckfmA5qGgkv8IjHCVK04Ve9HlUKalJWocumwYmovNfmlRBIaFdKy8z86DJTHvYvBXJChl9v4sU1JuM95qMnj-Vp_aiz_CdTQTF-m0P5j3c47pAs2cUYBDcxiCCKTVU-72OyIZ0BmRIfkYnOh2Wxdh57VXsK5R1J32M1l7C8axFxT1w1e7nf2KlDaAduEg0QyZwQYvoxaaNSrLY4Ev0lMhQd3HBn0nh3Owe8-eYPLpe-OzVBzthIGDlRhKWy9lzYi9T37Wa3DHwB-RTP3zVmt56esg'
-token_auction5 = 'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsIng1dCI6IktYMk40TkRDSTJ5NTA5NWpjTWk5TllqY2lyZyIsImtpZCI6IktYMk40TkRDSTJ5NTA5NWpjTWk5TllqY2lyZyJ9.eyJpc3MiOiJodHRwczovL2x1ZHkuZ2FtZS5vbnN0b3ZlLmNvbSIsImF1ZCI6Imh0dHBzOi8vbHVkeS5nYW1lLm9uc3RvdmUuY29tL3Jlc291cmNlcyIsImNsaWVudF9pZCI6IjEwMDAwMDAwMDAwNTk3ODAifQ.PAkynAiEnMA0eU3y5kUk1Cpnj1FRW3LHl9ywLzq4tU4vt5VVSrFySm5g94fUJxLyG8PkrdZZu6FUI-7uWWKAvhmCHxPu-Sjgid3HMoTQfJ9kH7z0GXY6vblc7u5gYdosnQaNZ1evZGx-_yVs3P0rV9PxvrlqNbiSzTkg_iP-4tNTaDn_dC39CLTYhJXywjpqp2cT4FDyHcNKZJqS3FqdPLp6lf5HtDbg786qopvSrTlSas8oxKRtfsoZ9__RESm2V_kTXT_sq1TAGAvge8msv81Iblp8pNNYm6g436oIVNOsHxJfSpTgjxqp942s_xYfXJVGhlWfJIS-E7mp2myoGg'
-token_auction6 = 'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsIng1dCI6IktYMk40TkRDSTJ5NTA5NWpjTWk5TllqY2lyZyIsImtpZCI6IktYMk40TkRDSTJ5NTA5NWpjTWk5TllqY2lyZyJ9.eyJpc3MiOiJodHRwczovL2x1ZHkuZ2FtZS5vbnN0b3ZlLmNvbSIsImF1ZCI6Imh0dHBzOi8vbHVkeS5nYW1lLm9uc3RvdmUuY29tL3Jlc291cmNlcyIsImNsaWVudF9pZCI6IjEwMDAwMDAwMDAwMjU4MzMifQ.LQFiVfyV11l3-4u20RkroD0hOVgrcGuWGf6n6_1Q86oiATg_9itb0RblPOdLyk3hXJxc3Q9kf0wfmIXU891eVYmfwHaoCYa1W0PQbKx2MQiKel_ciqo8KscsMdxAlGexdjNbGVDLxqoCBn6MiqqrzEnQaSPiGmazQc3OixZTR4MEYwNkX-HeiBReag_WMtCeNUoW9QghgMu4VH29PeKpFlEZYdDiZ2-Lzy-984VJEYO927ev6rZnux020v1Jy8USLgzUb_rCOHuJKuv-E32vPzy-UfdD1b4RpvT0b0DDoOEzKA-G5eb2XS9mVRnTFloznKVjVzbBEv9eloeq1Hzzuw'
+token_auction1 = ''
+token_auction2 = ''
+token_auction3 = ''
+token_auction4 = ''
+token_auction5 = ''
+token_auction6 = ''
 gem_9 = {
     "ItemLevelMin": 0,
     "ItemLevelMax": 0,
@@ -160,8 +160,8 @@ driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), opti
 driver.implicitly_wait(10)
 driver.maximize_window()
 driver.get(url='https://lostark.game.onstove.com/Auction')
-driver.find_element(By.NAME,'user_id').send_keys("dlguseoek")
-driver.find_element(By.NAME,'user_pwd').send_keys("lhd159357!@")
+driver.find_element(By.NAME,'user_id').send_keys("id")
+driver.find_element(By.NAME,'user_pwd').send_keys("pw")
 driver.find_element(By.XPATH,'//*[@id="idLogin"]/div[4]/button').click()
 sleep(1)
 driver.find_element(By.XPATH,'//*[@id="otp"]').send_keys(OPT_CODE)
